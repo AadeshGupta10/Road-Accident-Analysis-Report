@@ -15,9 +15,21 @@ The goal of this project is to support data-driven road safety analysis and impr
 
 ---
 
-# Dashboard Preview
+# Overview
 
 ![Dashboard Overview](Screenshots/overview.jpg)
+
+# Location-Based
+
+![Location-Based Analysis](Screenshots/Location-Based Analysis.jpg)
+
+# Time-Based
+
+![Time-Based Analysis](Screenshots/Time-Based Analysis.jpg)
+
+# Contributing Factor
+
+![Contributing Factor](Screenshots/Contributing Factor Analysis.jpg)
 
 ---
 
