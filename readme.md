@@ -21,15 +21,15 @@ The goal of this project is to support data-driven road safety analysis and impr
 
 # Location-Based
 
-![Location-Based Analysis](Screenshots/Location-Based Analysis.jpg)
+![Location-Based Analysis](Screenshots/cocation-based_analysis.jpg)
 
 # Time-Based
 
-![Time-Based Analysis](Screenshots/Time-Based Analysis.jpg)
+![Time-Based Analysis](Screenshots/time-based_analysis.jpg)
 
 # Contributing Factor
 
-![Contributing Factor](Screenshots/Contributing Factor Analysis.jpg)
+![Contributing Factor](Screenshots/contributing_factor_analysis.jpg)
 
 ---
 
@@ -160,9 +160,9 @@ Road-Accident-Analysis/
 │
 ├── Screenshots/
 │   ├── overview.jpg
-│   ├── Contributing Factor Analysis.jpg
-│   ├── Location-Based Analysis.jpg
-│   └── Time-Based Analysis.jpg
+│   ├── contibuting_factor_analysis.jpg
+│   ├── location-based_analysis.jpg
+│   └── time-based_analysis.jpg
 │
 ├── README.md
 ```
