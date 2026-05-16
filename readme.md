@@ -21,7 +21,7 @@ The goal of this project is to support data-driven road safety analysis and impr
 
 # Location-Based
 
-![Location-Based Analysis](Screenshots/cocation-based_analysis.jpg)
+![Location-Based Analysis](Screenshots/location-based_analysis.jpg)
 
 # Time-Based
 
